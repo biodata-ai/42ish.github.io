@@ -12,5 +12,5 @@ We appreciate constructive critisism and feedback.
 
 ### Contact us
 
-logancgraham (at) gmail.com
+logancgraham (at) gmail.com  
 syed.rizvi (at) gmx.com
