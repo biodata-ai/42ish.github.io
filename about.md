@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We are researchers at the University of Oxford, working in the field of machine intelligence.
 
-### More Information
+Through this blog we want to share out thoughts and opinions on the future of artificial intelligence and its role in society. 
 
-A place to include any other types of information that you'd like to include about yourself.
+We appreciate constructive critisism and feedback. 
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+logancgraham (at) gmail.com
+syed.rizvi (at) gmx.com
