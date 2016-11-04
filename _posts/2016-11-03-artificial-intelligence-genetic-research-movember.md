@@ -4,7 +4,7 @@ title: Using Artificial Intelligence and Genetic Research to support Movember
 ---
 
 This November, in addition to growing our mustaches we have decided to put our technical skills to good use to support the spirit 
-of Movember. 
+of [Movember](https://uk.movember.com/mens-health/prostate-cancer "Prostrate Cancer: The Facts"). 
 We have designed a project that combines artificial intelligence and genetic research to predict the risk and incidence of 
 prostrate cancer in men. 
 
@@ -25,9 +25,7 @@ Karl Smith Byrne is a Clarendon Scholar from Dublin. He has been doing a PhD at 
 
 ### Incidence of prostrate cancer
 
-According to [Cancer Research UK](http://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/prostate-cancer/incidence#8XByEiF2YHX1cjMg.99 "Accessed on 03 Nov, 2016"), there were 47,300 new cases of prostrate cancer in 2013 alone! That is more than twice the size of the [whole student population of Oxford](https://www.ox.ac.uk/about/facts-and-figures/student-numbers?wssl=1 "22,602 according to Oxford University Student Statistics website on 03 Nov, 2016")
-
-
+According to [Cancer Research UK](http://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/prostate-cancer/incidence#8XByEiF2YHX1cjMg.99 "Accessed on 03 Nov, 2016"), prostrate cancer is the second most common cancer in the UK and there were 47,300 new cases of prostrate cancer in 2013 alone! That is more than twice the size of the [whole student population of Oxford](https://www.ox.ac.uk/about/facts-and-figures/student-numbers?wssl=1 "22,602 according to Oxford University Student Statistics website on 03 Nov, 2016"). 
 
 ### Contact us
 
