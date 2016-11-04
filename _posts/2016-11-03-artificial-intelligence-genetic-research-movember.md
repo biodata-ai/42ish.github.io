@@ -12,9 +12,9 @@ prostrate cancer in men.
 Karl and I are researchers at the University of Oxford. After having a conversation about how we both wanted to move beyond academic research and have more meaningful, direct impact on helping people live healthier lives, we knew we what we had to do and this project was the result of combining our individual strengthts. 
 
 ### The project
-In this project we will use advanced machine learning techniques such as deep neural networks, on genetic data to design a test to help clinicians in predicting the risk of an individual developing prostrate cancer within the next three years. The genetic data will be combined with other biomarkers such as height, body fat composition, and lifestyle habits, in order to give personalized results for patients because each individual is unique and any prediction test must take these individual traits into account. 
+In this project we will use advanced machine learning techniques such as deep neural networks, on genetic data to design a test to help clinicians in combating prostrate cancer. The test will predict the risk of an individual developing prostrate cancer within the next three years of their life. The genetic data will be combined with other biomarkers such as height, body fat composition, and lifestyle habits, in order to give personalized results for patients because each individual is unique and any prediction test must take these individual traits into account. 
 
-Our research is open source, so that other scientists can build upon our work to advance the prediction of prostrate cancer. 
+Our research is open source, so that other scientists can build upon our work to advance the prediction of prostrate cancer. The aim of our project is to bring together the fields of Artificial Intelligence and Genetic research and create algorithms that help improve people's lives. 
 
 ### The team
 
