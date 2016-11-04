@@ -22,6 +22,6 @@ A few more people have expressed interest in joining the project and we will hop
 
 ### Contact us
 
-To find out more about our project or to join our team, email us at:
+To find out more about our project or to join our team, email us at:  
 syed.rizvi (at) eng.ox.ac.uk
 karl.smithbyrne (at) bnc.ox.ac.uk
