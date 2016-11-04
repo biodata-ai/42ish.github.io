@@ -26,7 +26,9 @@ Karl Smith Byrne is a Clarendon Scholar from Dublin. He has been doing a PhD at 
 
 ### Incidence of prostrate cancer
 
-According to [Cancer Research UK](http://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/prostate-cancer/incidence#8XByEiF2YHX1cjMg.99 "Accessed on 03 Nov, 2016"), prostrate cancer is the second most common cancer in the UK and there were 47,300 new cases of prostrate cancer in 2013 alone! That is more than twice the size of the [whole student population of Oxford](https://www.ox.ac.uk/about/facts-and-figures/student-numbers?wssl=1 "22,602 according to Oxford University Student Statistics website on 03 Nov, 2016"). 
+According to [Cancer Research UK](http://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/prostate-cancer/incidence#8XByEiF2YHX1cjMg.99 "Accessed on 02 Nov, 2016"), prostrate cancer is the second most common cancer in the UK and there were 47,300 new cases of prostrate cancer in 2013 alone! That is more than twice the size of the [whole student population of Oxford](https://www.ox.ac.uk/about/facts-and-figures/student-numbers?wssl=1 "22,602 according to Oxford University Student Statistics website on 02 Nov, 2016"). 
+
+[1 in 8 men](http://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/prostate-cancer/incidence#8XByEiF2YHX1cjMg.99 "According to Cancer Research UK, accessed on 02 Nov, 2016") will be diagnosed with prostrate cancer during their lifetime and around the world 1.11 million men were diagnosed with prostrate cancer in 2012! That is roughly 9 times the total [population of Oxford](https://www.oxford.gov.uk/info/20131/population/459/oxfords_population "According to Oxford City Council, accessed on 02 Nov, 2016").
 
 ### Using Artificial Intelligence to predict prostrate cancer
 
