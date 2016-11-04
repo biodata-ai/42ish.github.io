@@ -10,3 +10,6 @@ prostrate cancer in men.
 
 In this project we will use advanced machine learning techniques such as deep neural networks, on genetic data to design a test to help clinicians in predicting the risk of an individual developing prostrate cancer within the next three years. The genetic data will be combined with other biomarkers such as height, body fat composition, and lifestyle habits, in order to give personalized results for patients because each individual is unique and any prediction test must take these individual traits into account. 
 
+### About us
+
+We are researchers at the University of Oxford. This project was started by Syed Rizvi and [Karl Smith Byrne](https://www.ndph.ox.ac.uk/team/karl-smithbyrne "Karl Smith Byrne - Nuffield Dept of Population Health")
