@@ -2,8 +2,8 @@
 layout: post
 title: Using Artificial Intelligence and Genetic Research to support Movember
 ---
-*by Syed Rizvi and Karl Smith Byrne*
-
+*by Syed Rizvi and Karl Smith Byrne*  
+  
 This November, in addition to growing our mustaches we have decided to put our technical skills to good use to support the spirit 
 of [Movember](https://uk.movember.com/mens-health/prostate-cancer "Prostrate Cancer: The Facts"). 
 We have designed a project that uses artificial intelligence and genetic research to predict the risk and incidence of 
