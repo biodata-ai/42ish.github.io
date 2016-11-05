@@ -11,7 +11,8 @@ prostrate cancer in men.
 
 Karl and I are researchers at the University of Oxford. After having a conversation about how we both wanted to move beyond academic research and have more meaningful, direct impact on helping people live healthier lives, we knew we what we had to do and this project was the result of combining our individual strengthts. 
 
-## The project  
+## The project
+
 ### Using Artificial Intelligence to predict prostrate cancer
 
 In this project we will use advanced machine learning techniques especially deep learning, on genetic data to design a test to help clinicians in combating prostrate cancer. The test will predict the risk of an individual developing prostrate cancer within the next three years of their life. The genetic data will be combined with other biomarkers such as height, body fat composition, and lifestyle habits, in order to give personalized results for patients because each individual is unique and any prediction test must take these individual traits into account. 
@@ -44,7 +45,7 @@ Going into this challenge we are mindful of the fact that many many smart and ta
 
 ## How can you help?
 
-First and foremost, please contribute to the Movember Foundation (https://uk.movember.com/ "Movember Foundation Homepage") by giving donations to people around you who are taking part in the challenge. 
+First and foremost, please contribute to the [Movember Foundation](https://uk.movember.com/ "Movember Foundation Homepage") by giving donations to people around you who are taking part in the challenge. 
 
 Check out our github repository and raise issues if you find any bugs.
 
