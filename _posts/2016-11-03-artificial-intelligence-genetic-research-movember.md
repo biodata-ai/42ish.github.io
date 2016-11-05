@@ -11,8 +11,14 @@ prostrate cancer in men.
 
 Karl and I are researchers at the University of Oxford. After having a conversation about how we both wanted to move beyond academic research and have more meaningful, direct impact on helping people live healthier lives, we knew we what we had to do and this project was the result of combining our individual strengthts. 
 
-### The project
-In this project we will use advanced machine learning techniques such as deep neural networks, on genetic data to design a test to help clinicians in combating prostrate cancer. The test will predict the risk of an individual developing prostrate cancer within the next three years of their life. The genetic data will be combined with other biomarkers such as height, body fat composition, and lifestyle habits, in order to give personalized results for patients because each individual is unique and any prediction test must take these individual traits into account. 
+## The project  
+### Using Artificial Intelligence to predict prostrate cancer
+
+In this project we will use advanced machine learning techniques especially deep learning, on genetic data to design a test to help clinicians in combating prostrate cancer. The test will predict the risk of an individual developing prostrate cancer within the next three years of their life. The genetic data will be combined with other biomarkers such as height, body fat composition, and lifestyle habits, in order to give personalized results for patients because each individual is unique and any prediction test must take these individual traits into account. 
+
+The technology we are trying to deploy in the face of this challenging issue are the cutting edge artificial intelligence algorithms that are being used to run driverless cars, to analyse financial markets, to program smart ai assistants, and in detecting asteroids that are a risk to earth etc.
+
+We hope that we can harness this same power to challenge the hard problem of predicting the risk of prostrate cancer in men. We want our predictions to be meaningful and actionable, so that clinicians can use them to save lives. 
 
 Our research is open source, so that other scientists can build upon our work to advance the prediction of prostrate cancer. The aim of our project is to bring together the fields of Artificial Intelligence and Genetic research and create algorithms that help improve people's lives. 
 
@@ -30,7 +36,19 @@ According to [Cancer Research UK](http://www.cancerresearchuk.org/health-profess
 
 [1 in 8 men](http://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/prostate-cancer/incidence#8XByEiF2YHX1cjMg.99 "According to Cancer Research UK, accessed on 02 Nov, 2016") will be diagnosed with prostrate cancer during their lifetime and around the world 1.11 million men were diagnosed with prostrate cancer in 2012! That is roughly 9 times the total [population of Oxford](https://www.oxford.gov.uk/info/20131/population/459/oxfords_population "According to Oxford City Council, accessed on 02 Nov, 2016").
 
-### Using Artificial Intelligence to predict prostrate cancer
+These statistics make it clear that it is a worthwhile challenge and a problem that needs to be tackled with all the resouces we can muster.
+
+### Respect for the problem and research that has come before
+
+Going into this challenge we are mindful of the fact that many many smart and talented people have conducted valuable research in this area before us. We are by no means trying to say that this artificial intelligence approach will hold all the answers or that this approach will succeed where previous methods have failed. It is possible that we will hit the same walls that others have come up against, but our sincerest hope is that we will hit new walls and find the next level challenges that have so far remained out of reach of the previous research in this field. 
+
+### How can you help?
+
+First and foremost, please contribute to the Movember Foundation (https://uk.movember.com/ "Movember Foundation Homepage") by giving donations to people around you who are taking part in the challenge. 
+
+Check out our github repository and raise issues if you find any bugs.
+
+Give us suggestions for improveing our methodology whether in terms of experiment design, data techniques or the artificial intelligence algorithms that we are using. 
 
 ### Contact us
 
