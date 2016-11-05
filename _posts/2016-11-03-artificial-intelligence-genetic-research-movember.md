@@ -42,7 +42,7 @@ These statistics make it clear that it is a worthwhile challenge and a problem t
 
 Going into this challenge we are mindful of the fact that many many smart and talented people have conducted valuable research in this area before us. We are by no means trying to say that this artificial intelligence approach will hold all the answers or that this approach will succeed where previous methods have failed. It is possible that we will hit the same walls that others have come up against, but our sincerest hope is that we will hit new walls and find the next level challenges that have so far remained out of reach of the previous research in this field. 
 
-### How can you help?
+## How can you help?
 
 First and foremost, please contribute to the Movember Foundation (https://uk.movember.com/ "Movember Foundation Homepage") by giving donations to people around you who are taking part in the challenge. 
 
@@ -50,7 +50,7 @@ Check out our github repository and raise issues if you find any bugs.
 
 Give us suggestions for improveing our methodology whether in terms of experiment design, data techniques or the artificial intelligence algorithms that we are using. 
 
-### Contact us
+## Contact us
 
 To find out more about our project or to join our team, email us at:  
 
