@@ -31,7 +31,7 @@ Our research is open source, so that other scientists can build upon our work to
 
 This project was started by [Syed Rizvi](http://www.saarizvi.com/ "Syed Rizvi's homepage") (Machine Learning Research Group) and [Karl Smith Byrne](https://www.ndph.ox.ac.uk/team/karl-smithbyrne "Karl Smith Byrne - Nuffield Dept of Population Health") (Nuffield Department of Population Health) to bridge the gap between cutting edge Artificial Intelligence research and Global Health sciences. 
 
-![Syed Rizvi and Karl Smith Byrne, University of Oxford]({{ site.baseurl }}/images/Ali_Karl.jpg "Syed Rizvi and Karl Smith Byrne, University of Oxford")
+![Syed Rizvi and Karl Smith Byrne, University of Oxford]({{ site.baseurl }}/images/Syed_Rizvi_Karl_Byrne_Oxford.jpg "Syed Rizvi and Karl Smith Byrne, University of Oxford")
 
 Syed Rizvi is a Rhodes Scholar from Pakistan. He has been doing a PhD at the Machine Learning Research Group at University of Oxford, under Prof. Stephen Robert supported by funding from Oxford-Man Institute of Quantitative Finance. Since 2012, Syed's research has focused on using artificial intelligence techniques for predicting financial market volatility, and analysing how information travels between different financial markets. Before starting the PhD, Syed worked as an Instrumentation Engineer in Pakistan, and studied for a BEngg in Electronics Engineering at National University of Sciences and Technology. 
 
